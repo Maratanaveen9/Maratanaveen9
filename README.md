@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maratanaveen9
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning B.TECH
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach my goal
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach my 
 
 <!---
 Maratanaveen9/Maratanaveen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
